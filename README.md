@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Business Banner_Vannessa.png" width="100%" alt="Banner do perfil">
+</p>
+
 <div align="center">
 
 # 👋 Olá, eu sou Vanessa
