@@ -33,6 +33,13 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vafantasia@gmail.com)
 ---
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vafantasia)](https://github.com/ryo-ma/github-profile-trophy)
+<h2>Connect with me</h2>
+
+<a href="https://linkedin.com/in/vanessa-mancini-47b90122" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:vafantasia@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ⭐ Thank you for visiting my profile!
