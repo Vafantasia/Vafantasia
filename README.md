@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,azure,mysql,sqlite,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,visualstudio,git,github,mysql,vscode" />
 </p>
 
 ---
