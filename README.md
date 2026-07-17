@@ -12,7 +12,7 @@
 
 - 💼 Analista de Desenvolvimento de Seguros
 - 💻 Apaixonada por tecnologia
-- ☁️ Estudando Azure e Inteligência Artificial
+- ☁️ Estudando inteligência artificial et programação
 - 📚 Sempre aprendendo novas tecnologias
 - 🎯 Objetivo: construir soluções modernas e escaláveis
 
