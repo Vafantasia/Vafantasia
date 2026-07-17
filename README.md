@@ -6,8 +6,6 @@
 
 # 👋 Hi, I'm Vanessa
 
-### Assurance – Développement de Produit • Data Analyste avec Python • Gestion de Projets • Apaixonada por Technologie
-
 </div>
 
 ---
