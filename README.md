@@ -4,25 +4,24 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Vanessa
+# 👋 Hi, I'm Vanessa
 
-### Analista de Desenvolvimento de Seguros • Apaixonada por Technologie
+### Assurance – Développement de Produit • Data Analyste avec Python • Gestion de Projets • Apaixonada por Technologie
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 💼 Analista de Desenvolvimento de Seguros
-- 💻 Apaixonada por tecnologia
-- ☁️ Estudando inteligência artificial et programação
-- 📚 Sempre aprendendo novas tecnologias
-- 🎯 Objetivo: construir soluções modernas e escaláveis
+- 💼 Development of life insurance
+- 💻 Tech enthusiast
+- ☁️ Studying artificial intelligence and programming
+- 📚 I like this one in constant evolution
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technology
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=visualstudio,git,github,mysql,vscode"/>
@@ -36,4 +35,4 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vafantasia@gmail.com)
 ---
 
-⭐ Obrigada pela visita ao meu perfil!
+⭐ Thank you for visiting my profile!
