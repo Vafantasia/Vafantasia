@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Business Banner_Vannessa.png" width="100%" alt="Banner do perfil">
+  <img src="./Black Minimalist Banner.png" width="100%" alt="Banner do perfil">
 </p>
 
 <div align="center">
