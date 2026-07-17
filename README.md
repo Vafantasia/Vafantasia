@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,visualstudio,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,visualstudio,git,github,mysql,vscode"/>
 </p>
 
 ---
@@ -34,14 +34,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vafantasia&layout=compact&theme=github_dark"/>
 
-</p>
-
----
-
-## 🔥 Sequência de contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Vafantasia&theme=github-dark" />
 </p>
 
 ---
