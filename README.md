@@ -30,11 +30,10 @@
 
 ---
 
-## 📫 Contato
+## 📫 Connect with me
 
-- LinkedIn
-- Email
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vanessa-mancini-47b90122)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vafantasia@gmail.com)
 ---
 
 ⭐ Obrigada pela visita ao meu perfil!
