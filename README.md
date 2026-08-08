@@ -1,11 +1,12 @@
-<p align="center">
+<p align="left">
   <img src="./Black Minimalist Banner.png" width="100%" alt="Banner do perfil">
 </p>
 
-<div align="center">
+<div align="left">
+
 
 # Hi, I'm Vanessa Mancini 👋
- 
+
 **Business Analyst & Product Owner | Actuarial Background | Insurance Industry**
  
 Over 15 years of experience at Brasilseg, an insurance company partnered with Banco do Brasil, working across the full product lifecycle — from risk underwriting to Product Ownership in Agile environments.
@@ -22,7 +23,6 @@ Over 15 years of experience at Brasilseg, an insurance company partnered with Ba
 - Bachelor's in Actuarial Sciences — FMU (Brazil)
 - Fundamentals of Probability and Statistics for Data Science — USP
 - Fundamentals of Internal Audit (COSO, IPPF, ISO) — IIA Brazil
-
 ## 🛠️ Tools & Skills
  
 `SQL` `Python` `Agile/Scrum` `Miro` `Canvas` `Risk Analysis` `Backlog Management`
@@ -31,8 +31,9 @@ Over 15 years of experience at Brasilseg, an insurance company partnered with Ba
  
 Portuguese (native) · French (B2) · English · Spanish
  
-<h2>📫 Connect with me</h2>
+## 📫 Contact
 
+  
 <a href="https://linkedin.com/in/vanessa-mancini-47b90122" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
