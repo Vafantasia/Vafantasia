@@ -25,7 +25,7 @@ Over 15 years of experience at Brasilseg, an insurance company partnered with Ba
 - Fundamentals of Internal Audit (COSO, IPPF, ISO) — IIA Brazil
 ## 🛠️ Tools & Skills
  
-`SQL` `Python` `Agile/Scrum` `Miro` `Canvas` `Risk Analysis` `Backlog Management`
+`SQL` `Python` `Power BI` `Agile/Scrum` `Miro` `Canvas` `Risk Analysis` `Backlog Management`
  
 ## 🌐 Languages
  
